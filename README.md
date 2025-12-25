@@ -4,14 +4,6 @@
 
 <br/>
 
-## 🐍 Watch My Contribution Snake Eat All The Commits!
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bjorkasasgard/bjorkasasgard/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
 ## 🎯 About Me
 
 ```typescript
@@ -25,6 +17,14 @@ const bjorkasasgard: Developer = {
   funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
+
+<br/>
+
+## 🐍 Watch My Contribution Snake Eat All The Commits!
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bjorkasasgard/bjorkasasgard/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
 <br/>
 
