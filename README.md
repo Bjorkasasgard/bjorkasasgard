@@ -49,7 +49,7 @@ const bjorkasasgard: Developer = {
 ## 💻 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,nodejs,express,python,django,fastapi,java,cpp,tailwind,bootstrap,mongodb,mysql,postgresql,redis,docker,kubernetes,aws,git,github,vscode,figma,postman&perline=14" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,fastapi,cpp,tailwind,sqlite,mysql,postgresql,docker,kubernetes,aws,git,github,vscode,figma,postman&perline=14" alt="Tech Stack"/>
 </p>
 
 <br/>
