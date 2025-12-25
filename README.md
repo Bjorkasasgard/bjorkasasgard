@@ -20,10 +20,6 @@ const bjorkasasgard: Developer = {
 
 <br/>
 
----
-
-<br/>
-
 ## 🐍 Watch My Contribution Snake Eat All The Commits!
 
 <div align="center">
