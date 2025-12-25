@@ -28,10 +28,6 @@ const bjorkasasgard: Developer = {
 
 <br/>
 
----
-
-<br/>
-
 ## 💻 Tech Stack & Tools
 
 <p align="center">
