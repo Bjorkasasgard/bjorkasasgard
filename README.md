@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="https://github.com/Bjorkasasgard">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -25,11 +25,69 @@
   <img src="https://komarev.com/ghpvc/?username=Bjorkasasgard&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
 </p>
 
+---
+
+## 🎯 About Me
+
+```typescript
+interface Developer {
+  name: string;
+  location: string;
+  role: string;
+  languages: string[];
+  interests: string[];
+  currentlyLearning: string[];
+  funFact: string;
+}
+
+const bjorkasasgard: Developer = {
+  name: "Bjorkasasgard",
+  location: "Indonesia 🇮🇩",
+  role: "Full Stack Developer",
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "C++"],
+  interests: ["Web Dev", "AI/ML", "Open Source", "Cloud Computing"],
+  currentlyLearning: ["GraphQL", "Rust", "Web3"],
+  funFact: "I turn coffee into code ☕ → 💻"
+};
+```
 
 <br/>
 
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-## Tech Stack & Tools
+### 🚀 Quick Facts
+
+- 🔭 Working on **cutting-edge web applications**
+- 🌱 Exploring **AI & Machine Learning**
+- 👯 Open to **collaborations** on interesting projects
+- 💬 Ask me about **JavaScript, React, Node.js**
+- 📫 Reach out: **your.email@example.com**
+- ⚡ Fun fact: **Debugging is my cardio**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 Currently Vibing To
+
+```javascript
+🎧 Coding Playlist
+├── 🎵 Lofi Hip Hop
+├── 🎸 Synthwave
+└── 🎹 Electronic
+
+💡 Current Mood: Building & Learning
+🎯 2025 Goals: Contribute more to Open Source
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,next,nodejs,express,python,django,fastapi,java,cpp,tailwind,bootstrap,mongodb,mysql,postgresql,redis,docker,kubernetes,aws,git,github,vscode,figma,postman&perline=14" />
