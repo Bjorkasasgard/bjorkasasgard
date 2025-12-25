@@ -54,24 +54,6 @@ const bjorkasasgard: Developer = {
 
 <br/>
 
----
-
-<br/>
-
-## 🎧 Now Playing on Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31oqehf74wyhignaqs2owhwmdmr4">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31oqehf74wyhignaqs2owhwmdmr4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
