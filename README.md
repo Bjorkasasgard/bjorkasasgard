@@ -2,14 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bjorkasasgard&fontSize=42&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling" />
 </div>
 
-<br/>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A277FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+digital+space+%F0%9F%91%8B;Building+elegant+solutions+to+complex+problems;Passionate+about+clean+code+%26+innovation" alt="Typing SVG" />
-</p>
-
-<br/>
-
 ---
 
 <br/>
